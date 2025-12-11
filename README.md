@@ -43,7 +43,8 @@ banking-app/
    ```bash
    go mod init banking-app
    go run .
-   --- Меню ---
+   
+--- Меню ---
 1. Создать счет
 2. Пополнить счет
 3. Снять средства
